@@ -5,40 +5,44 @@
    
    "moreApp": [
 		{
-			"Name": "Real Drum",
-			"Description": "REAL DRUM lets you try the true drumming",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=br.com.rodrigokolb.realdrum",
-			"URLImage": "https://image.winudf.com/v2/image1/YnIuY29tLnJvZHJpZ29rb2xiLnJlYWxkcnVtX2ljb25fMTYxNTQwNjE2OV8wMjg/icon.png?w=170&fakeurl=1"
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
 		},
 		{
-			"Name": "Craftsman",
-			"Description": "You are a craftsman, your task is to design houses",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.craftsman.go",
-			"URLImage": "https://image.winudf.com/v2/image1/Y29tLmNyYWZ0c21hbi5nb19pY29uXzE1NTkyMjg5ODdfMDkz/icon.png?w=170&fakeurl=1"
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
 		},
 		{
-			"Name": "Free Fire",
-			"Description": "permainan survival shooter terbaik",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.dts.freefiremax",
-			"URLImage": "https://image.winudf.com/v2/image1/Y29tLmR0cy5mcmVlZmlyZW1heF9pY29uXzE2MzI5ODk5NThfMDkz/icon.png?w=170&fakeurl=1"
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
 		},
 		{
-			"Name": "Roblox",
-			"Description": "jelajahi dunia yang menakjubkan dari game",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.roblox.client",
-			"URLImage": "https://image.winudf.com/v2/image1/Y29tLnJvYmxveC5jbGllbnRfaWNvbl8xNTczNDk3NzcxXzA5NA/icon.png?w=170&fakeurl=1"
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
 		},
 		{
-			"Name": "Among Us",
-			"Description": "The Impostor can use sabotage to cause chaos",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
-			"URLImage": "https://image.winudf.com/v2/image1/Y29tLmlubmVyc2xvdGguc3BhY2VtYWZpYV9pY29uXzE2MjU2NzQyMTZfMDg0/icon.png?w=170&fakeurl=1"
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
 		},
 		{
-			"Name": "Scary Teacher 3D",
-			"Description": "a genius girl and her worst high school teacher",
-			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.zakg.scaryteacher.hellgame",
-			"URLImage": "https://image.winudf.com/v2/image1/Y29tLnpha2cuc2Nhcnl0ZWFjaGVyLmhlbGxnYW1lX2ljb25fMTU1MjkyNzQzOF8wOTk/icon.png?w=170&fakeurl=1"
-		}
+		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
 	]
 }
