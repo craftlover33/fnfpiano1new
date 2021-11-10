@@ -1,7 +1,7 @@
 {
    "isRedirect": false,
    "message": "Hai there is new update for this app please download!",
-   "redirectUrl": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+   "redirectUrl": "-",
    
    "moreApp": [
 		{
@@ -11,14 +11,6 @@
 			"URLImage": "https://image.winudf.com/v2/image1/YnIuY29tLnJvZHJpZ29rb2xiLnJlYWxkcnVtX2ljb25fMTYxNTQwNjE2OV8wMjg/icon.png?w=170&fakeurl=1"
 		},
 		{
-		
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
-		},
-		{
-		
 			"Name": "",
 			"Description": "",
 			"URLPlaystore": "",
@@ -31,14 +23,18 @@
 			"URLImage": ""
 		},
 		{
-		
 			"Name": "",
 			"Description": "",
 			"URLPlaystore": "",
 			"URLImage": ""
 		},
 		{
-		
+			"Name": "",
+			"Description": "",
+			"URLPlaystore": "",
+			"URLImage": ""
+		},
+		{
 			"Name": "",
 			"Description": "",
 			"URLPlaystore": "",
