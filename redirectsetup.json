@@ -5,17 +5,16 @@
    
    "moreApp": [
 		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
+			"Name": "Poppy Piano Playtime",
+			"Description": "If you are a fan of Poppy Piano Playtime, you can play piano tiles with all songs of Poppy, playing popular songs with piano.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.pianyzy.poppypianoplaytime",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpianodev1/main/iconpoppypiano1.png"
 		},
 		{
-		
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
+			"Name": "Lady Diana Piano Tiles Master",
+			"Description": "If you are a fan of Lady Diana, you can play piano tiles with all songs Lady Diana, playing popular songs with piano.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.pianyzy.ladydianapianotiles",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconpianodev1/main/iconladydianapiano1.png"
 		},
 		{
 		
